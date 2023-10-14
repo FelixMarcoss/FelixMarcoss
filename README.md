@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FelixMarcoss
 - 👀 I’m interested in Coding! 
-- 🌱 I’m currently learning HTML, CSS. JS in the future!
+- 🌱 I’m currently learning HTML, CSS and JS
 - 📫 How to reach me: @marcos_felixf (my instagram)
 English and Portuguese speaker
 <!---
