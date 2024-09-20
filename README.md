@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FelixMarcoss
 - 👀 I’m interested in Coding! 
-- 🌱 I’m currently learning HTML, CSS and JS
+- 🌱 I’m currently learning Flutter!
 - 📫 How to reach me: @marcos_felixf (my instagram)
 English and Portuguese speaker
 <!---
