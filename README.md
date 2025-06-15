@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FelixMarcoss
 - 👀 I’m interested in Coding! 
 - 🌱 I’m currently learning Flutter!
-- 📫 How to reach me: @marcos_felixf (my instagram)
+- 📫 How to reach me: @marcosffra (my instagram)
 English and Portuguese speaker
 <!---
 FelixMarcoss/FelixMarcoss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
