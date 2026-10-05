@@ -1,6 +1,6 @@
-# Olá, sou Marcos Ferreira 👋
+# Olá, meu nome é Marcos 👋
 
-Desenvolvedor com foco em **Flutter e aplicações móveis**. Gosto de transformar um problema em um fluxo simples para quem usa o produto, do armazenamento de dados à interface. Também tenho interesse na integração entre software e hardware.
+Desenvolvedor Júnior com foco em **Flutter e aplicações móveis**. Gosto de transformar um problema em um fluxo simples para quem usa o produto, do armazenamento de dados à interface. Também tenho interesse na integração entre software e hardware.
 
 ## Projetos em destaque
 
