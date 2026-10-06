@@ -1,4 +1,4 @@
-# Olá, meu nome é Marcos 👋
+# Olá, meu nome é Marcos!
 
 Desenvolvedor Júnior com foco em **Flutter e aplicações móveis**. Gosto de transformar um problema em um fluxo simples para quem usa o produto, do armazenamento de dados à interface. Também tenho interesse na integração entre software e hardware.
 
